@@ -1,0 +1,10 @@
+<!--Programmer: Candace Keith
+Date: 2/27/17
+Lab:10
+Purpose: To create shipping calculator-->
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="output_margin_buffer">30dp</dimen>
+</resources><!--End resources-->

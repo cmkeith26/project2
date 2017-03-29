@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Programmer: Candace Keith
+Date: 2/27/17
+Lab:10
+Purpose: To create shipping calculator-->
+<resources>
+    <item name="action_setttings" type="id" />
+</resources> <!--End resources for action_settings-->

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--Programmer: Candace Keith
+Date: 2/27/17
+Lab:10
+Purpose: To create shipping calculator-->
+<resources>
+    <string name="app_name">Shipping Calculator</string> <!--set app_name to Shipping Calculator-->
+    <string name="hello_world">Hello world!</string><!--set hello_world to Hello World!-->
+    <string name="action_settings">Settings</string> <!--set action_settings to Settings-->
+
+
+    <string name="weightLBL">Enter the weight of \nyour package</string><!--set weightLBL to Enter the weight of your package-->
+    <string name="ouncesLBL">(in ounces)</string><!--set ouncesLBL to (in ounces)-->
+    <string name="baseLBL">Base Cost:</string><!--set baseLBL to Base Cost-->
+    <string name="addCostLBL">Added Cost:</string><!--set addCostLBL to Added Cost-->
+    <string name="totalLBL">Total Shipping Cost:</string><!--set totalLBL to Total Shipping Cost-->
+    <string name="zeroDec">$0.00</string><!--set zeroDec to $0.00-->
+    <string name="zero">0</string><!--set zero to 0-->
+
+</resources><!--End resources for strings-->

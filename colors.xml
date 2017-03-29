@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Programmer: Candace Keith
+Date: 2/27/17
+Lab:10
+Purpose: To create shipping calculator-->
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+</resources> <!--End resources for colors-->
